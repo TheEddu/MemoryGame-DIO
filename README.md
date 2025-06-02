@@ -16,7 +16,7 @@ Mas alterei os emojis e a estilização para um inspirado em jogos do gênero So
 
 ## Como rodar o projeto
 
-Acesse o site [aqui](https://www.dio.me/)
+Acesse o site [aqui](https://theeddu.github.io/MemoryGame-DIO/)
 
 ## Tecnologias utilizadas
 
